@@ -11,3 +11,4 @@ screeninfo
 oscpy
 pywin32
 setuptools
+jinja2
