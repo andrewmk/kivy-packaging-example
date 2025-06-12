@@ -10,3 +10,4 @@ psutil
 screeninfo
 oscpy
 pywin32
+setuptools
