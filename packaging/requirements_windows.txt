@@ -13,3 +13,4 @@ pywin32
 setuptools
 jinja2
 kivy
+condiment
